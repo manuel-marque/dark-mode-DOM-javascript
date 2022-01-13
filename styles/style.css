@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  
+}
+
+img {
+  max-width: 100%;
+  max-height: 50vh;
+  margin: 1rem 0;
+}
+
+.container {
+  width: min(80%, 800px);
+  margin: 1rem auto;
+}
+
+.boton {
+  margin-top: 1rem;
+  padding: 0.3em 0.7em;
+  background: rgb(39,31,88);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
